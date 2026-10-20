@@ -1,0 +1,19 @@
+# WorkBuddy 项目状态（本地记忆/配置，不应提交到远程）
+.workbuddy/
+
+# 依赖
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+
+# 环境变量与密钥
+.env
+.env.local
+*.pem
+*.key
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+*.log
